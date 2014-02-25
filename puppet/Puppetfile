@@ -3,4 +3,4 @@ forge 'http://forge.puppetlabs.com'
 mod 'puppetlabs/ntp', '3.0.2'
 mod 'puppetlabs/firewall', '1.0.0'
 mod 'puppetlabs/inifile', '1.0.1'
-mod 'zack/r10k', '1.0.2
+mod 'zack/r10k', '1.0.2'
