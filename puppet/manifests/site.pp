@@ -32,7 +32,7 @@ node /^master.*$/ inherits base {
   }
 
   #include r10k::prerun_command
-  include r10k::mcollective
+  #include r10k::mcollective
 
   ini_setting { 'master module path':
     ensure => present,
